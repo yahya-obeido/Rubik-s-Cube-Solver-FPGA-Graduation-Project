@@ -1,0 +1,1 @@
+1- Test 6 stepper motors with drivers (Make each motor with each driver do one rotation)(Also Test power supply) 2- Test FPGA with 3 online arduino official codes and test their functionality 3- Buy Large Wooden Board and secure power supply in place 4- 3D Model the Entire Robot 5- 3D Print Couplers and Motor Holders
